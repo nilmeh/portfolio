@@ -165,14 +165,14 @@ export default function About() {
                   </div>
                   
                   <p className="text-muted-foreground leading-relaxed">
-                    I'm a Computer Science and Engineering student at UCLA with a passion for creating 
+                    I&apos;m a Computer Science and Engineering student at UCLA with a passion for creating 
                     innovative software solutions that solve real-world problems. With a strong academic 
                     foundation (3.976 GPA) and hands-on experience through internships and personal projects, 
                     I specialize in full-stack web development, iOS development, and emerging technologies.
                   </p>
                   <p className="text-muted-foreground leading-relaxed">
                     My journey spans from building production-ready SaaS platforms to conducting research 
-                    in mathematics education. I'm particularly interested in the intersection of technology, 
+                    in mathematics education. I&apos;m particularly interested in the intersection of technology, 
                     entrepreneurship, and user experience design. As a TEDx speaker and community leader, 
                     I believe in using technology to empower others and create positive change.
                   </p>
@@ -381,7 +381,7 @@ export default function About() {
                   <div className="flex items-start gap-3">
                     <div className="w-2 h-2 bg-emerald-500 rounded-full mt-2"></div>
                     <div>
-                      <p className="font-medium text-sm">Chairman's Excellence Scholarship</p>
+                      <p className="font-medium text-sm">Chairman&apos;s Excellence Scholarship</p>
                       <p className="text-xs text-muted-foreground">SIS Merit Scholarship</p>
                     </div>
                   </div>
@@ -395,14 +395,14 @@ export default function About() {
                   <Star className="h-5 w-5 text-amber-500" />
                   Academic Recognition
                 </CardTitle>
-                <CardDescription>Dean's Honors & Excellence</CardDescription>
+                <CardDescription>Dean&apos;s Honors & Excellence</CardDescription>
               </CardHeader>
               <CardContent>
                 <div className="space-y-3">
                   <div className="flex items-start gap-3">
                     <div className="w-2 h-2 bg-purple-500 rounded-full mt-2"></div>
                     <div>
-                      <p className="font-medium text-sm">Dean's Honors List</p>
+                      <p className="font-medium text-sm">Dean&apos;s Honors List</p>
                       <p className="text-xs text-muted-foreground">UCLA 2024-2025</p>
                     </div>
                   </div>
@@ -423,7 +423,7 @@ export default function About() {
                   <div className="flex items-start gap-3">
                     <div className="w-2 h-2 bg-purple-500 rounded-full mt-2"></div>
                     <div>
-                      <p className="font-medium text-sm">IGCSE: 9/9 A*'s</p>
+                      <p className="font-medium text-sm">IGCSE: 9/9 A*&apos;s</p>
                       <p className="text-xs text-muted-foreground">British International School Academic Merit</p>
                     </div>
                   </div>
@@ -485,9 +485,9 @@ export default function About() {
         <section className="text-center">
           <Card className="border-0 shadow-lg bg-white/80 dark:bg-slate-900/80 backdrop-blur-sm">
             <CardHeader>
-              <CardTitle className="bg-gradient-to-r from-emerald-600 to-green-600 bg-clip-text text-transparent">Let's Connect</CardTitle>
+              <CardTitle className="bg-gradient-to-r from-emerald-600 to-green-600 bg-clip-text text-transparent">Let&apos;s Connect</CardTitle>
               <CardDescription>
-                I'm always interested in discussing new opportunities, collaborations, or just chatting about technology
+                I&apos;m always interested in discussing new opportunities, collaborations, or just chatting about technology
               </CardDescription>
             </CardHeader>
             <CardContent>

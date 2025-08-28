@@ -28,7 +28,7 @@ export default function ComingSoon() {
             </h1>
             
             <p className="text-xl text-muted-foreground leading-relaxed max-w-2xl mx-auto">
-              This project page is currently under construction. I'm working hard to bring you detailed insights, 
+              This project page is currently under construction. I&apos;m working hard to bring you detailed insights, 
               screenshots, and technical deep-dives into this project.
             </p>
           </div>
@@ -43,13 +43,13 @@ export default function ComingSoon() {
                 Documentation in Progress
               </CardTitle>
               <CardDescription className="text-lg">
-                I'm crafting a comprehensive project showcase
+                I&apos;m crafting a comprehensive project showcase
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-6">
               <div className="grid md:grid-cols-2 gap-4">
                 <div className="space-y-2">
-                  <h4 className="font-semibold">What's Coming:</h4>
+                  <h4 className="font-semibold">What&apos;s Coming:</h4>
                   <ul className="text-sm text-muted-foreground space-y-1">
                     <li>• Detailed project overview</li>
                     <li>• Technical architecture</li>

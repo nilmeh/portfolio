@@ -74,9 +74,9 @@ export default function Contact() {
       <div className="container relative px-4 py-16 mx-auto">
         {/* Header */}
         <div className="mb-16 text-center">
-          <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-emerald-600 via-green-600 to-amber-600 bg-clip-text text-transparent">Let's Connect</h1>
+          <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-emerald-600 via-green-600 to-amber-600 bg-clip-text text-transparent">Let&apos;s Connect</h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            I'm always excited to discuss new opportunities, collaborate on projects, 
+            I&apos;m always excited to discuss new opportunities, collaborate on projects, 
             or simply chat about technology and innovation.
           </p>
         </div>
@@ -130,9 +130,9 @@ export default function Contact() {
             {/* What I'm interested in */}
             <Card className="border-0 shadow-lg bg-white/80 dark:bg-slate-900/80 backdrop-blur-sm">
               <CardHeader>
-                <CardTitle className="bg-gradient-to-r from-emerald-600 to-green-600 bg-clip-text text-transparent">What I'm interested in discussing</CardTitle>
+                <CardTitle className="bg-gradient-to-r from-emerald-600 to-green-600 bg-clip-text text-transparent">What I&apos;m interested in discussing</CardTitle>
                 <CardDescription>
-                  Here are some topics I'd love to chat about
+                  Here are some topics I&apos;d love to chat about
                 </CardDescription>
               </CardHeader>
               <CardContent>

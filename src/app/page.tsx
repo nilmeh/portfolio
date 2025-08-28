@@ -82,7 +82,7 @@ export default function Home() {
                 </div>
                 
                 <h1 className="text-4xl font-bold tracking-tight sm:text-6xl lg:text-7xl">
-                  <span className="block">Hi, I'm</span>
+                  <span className="block">Hi, I&apos;m</span>
                   <span className="block bg-gradient-to-r from-emerald-600 via-green-600 to-amber-600 bg-clip-text text-transparent">
                     Niloy
                   </span>
@@ -332,7 +332,7 @@ export default function Home() {
               Recent Highlights
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Beyond coding, I'm passionate about sharing ideas and creating social impact
+              Beyond coding, I&apos;m passionate about sharing ideas and creating social impact
             </p>
           </div>
 

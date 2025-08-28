@@ -486,7 +486,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
                 Interested in This Project?
               </h3>
               <p className="text-muted-foreground mb-6">
-                Let's discuss how we can collaborate or explore similar solutions together.
+                Let&apos;s discuss how we can collaborate or explore similar solutions together.
               </p>
               <div className="flex gap-4 justify-center flex-wrap">
                 <Button size="lg" asChild>

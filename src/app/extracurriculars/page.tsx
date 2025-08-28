@@ -27,13 +27,13 @@ export default function Extracurriculars() {
       location: "Mumbai, India",
       category: "speaking",
       featured: true,
-      description: "Delivered a TEDx Talk on 'Breaking the Walls of Silence' addressing important social issues and mental health awareness.",
+      description: "Delivered a TEDx Talk on &apos;Breaking the Walls of Silence&apos; addressing important social issues and mental health awareness.",
       impact: "Reached 500+ live audience members and 5,000+ online viewers",
       logo: "/images/TEDxLogo.png",
       link: "https://www.youtube.com/watch?v=0P4dkVxPTlE&t=318s",
       linkText: "Watch Talk",
-      videoId: "0P4dkVxPTlE", // YouTube video ID for embedding
-      videoStart: "0", // Start time in seconds
+      videoId: "0P4dkVxPTlE",
+      videoStart: "0",
       icon: Mic,
       color: "from-red-500 to-pink-500"
     },
@@ -47,7 +47,7 @@ export default function Extracurriculars() {
       featured: true,
       description: "Founded and led a community service organization focused on teaching digital literacy to underprivileged communities in India.",
       impact: "Taught programming to 100+ students, organized 20+ workshops",
-      logo: "/images/Code4ChangeLogo.jpeg", // Code4Change logo
+      logo: "/images/Code4ChangeLogo.jpeg",
       achievements: [
         "Established curriculum for basic programming and computer skills",
         "Recruited and managed team of 15 volunteer instructors",
@@ -65,9 +65,9 @@ export default function Extracurriculars() {
       location: "Mumbai, India",
       category: "leadership",
       featured: true,
-      description: "Led financial management and strategic direction for the school's premier community service club. Managed budget and provided leadership for all club activities.",
+      description: "Led financial management and strategic direction for the school&apos;s premier community service club. Managed budget and provided leadership for all club activities.",
       impact: "Managed $5,000+ budget, organized 15+ community service events",
-      logo: "/images/Rotaract_Logo.png", // Rotaract logo
+      logo: "/images/Rotaract_Logo.png", 
       achievements: [
         "Streamlined budget allocation and expense tracking systems",
         "Led fundraising initiatives raising $2,000+ for local charities",
@@ -106,7 +106,7 @@ export default function Extracurriculars() {
       location: "Mumbai, India", 
       category: "media",
       featured: false,
-      description: "Led the editorial team and managed content creation for the school's premier publication.",
+      description: "Led the editorial team and managed content creation for the school&apos;s premier publication.",
       impact: "Oversaw publication of multiple magazine issues",
       icon: Users,
       color: "from-green-500 to-teal-500"
@@ -490,7 +490,7 @@ export default function Extracurriculars() {
                 <Button asChild>
                   <Link href="/contact">
                     <Users className="mr-2 h-4 w-4" />
-                    Let's Connect
+                    Let&apos;s Connect
                   </Link>
                 </Button>
                 <Button variant="outline" asChild>

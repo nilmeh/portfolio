@@ -144,7 +144,7 @@ export default function Projects() {
         <div className="mb-16 text-center">
           <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-emerald-600 via-green-600 to-amber-600 bg-clip-text text-transparent">My Projects</h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            A collection of web applications, mobile apps, and SaaS platforms I've built, 
+            A collection of web applications, mobile apps, and SaaS platforms I&apos;ve built, 
             showcasing my journey in software development and innovation.
           </p>
         </div>
@@ -377,7 +377,7 @@ export default function Projects() {
             <CardHeader>
               <CardTitle>Interested in collaborating?</CardTitle>
               <CardDescription>
-                I'm always open to discussing new projects, innovative ideas, or opportunities to create something amazing together.
+                I&apos;m always open to discussing new projects, innovative ideas, or opportunities to create something amazing together.
               </CardDescription>
             </CardHeader>
             <CardContent>
