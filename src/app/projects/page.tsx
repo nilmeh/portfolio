@@ -51,7 +51,7 @@ export default function Projects() {
       featured: true,
       isPrivate: false,
       slug: "college-counsel",
-      github: "https://github.com/nilmeh/college-counsel",
+      github: "https://github.com/nilmeh/collegecounsel",
       demo: "https://collegecounsel.app",
       startDate: "2025-05-01"
     },

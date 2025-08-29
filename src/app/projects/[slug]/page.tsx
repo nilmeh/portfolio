@@ -16,7 +16,6 @@ import {
   Download
 } from "lucide-react";
 
-// Project data - this would typically come from a database or CMS
 const projectsData = {
   "sortobot": {
     title: "Sortobot",
@@ -148,7 +147,7 @@ const projectsData = {
     videoId: undefined,
     conference: undefined,
     appStoreUrl: undefined,
-    githubUrl: "https://github.com/nilmeh/college-counsel",
+    githubUrl: "https://github.com/nilmeh/collegecounsel",
     features: [
       "Comprehensive college application tracking dashboard",
       "AI-powered essay feedback and improvement suggestions",
