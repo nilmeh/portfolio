@@ -190,7 +190,7 @@ const projectsData = {
     videoId: undefined,
     conference: undefined,
     appStoreUrl: undefined,
-    githubUrl: "https://github.com/nilmeh/meal-plan-generator",
+    githubUrl: "https://github.com/nilmeh/CS35L_Project",
     features: [
       "Real-time UCLA dining hall menu integration",
       "Personalized meal recommendations based on preferences",

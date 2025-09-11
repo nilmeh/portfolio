@@ -101,7 +101,7 @@ export default function Projects() {
       featured: false,
       isPrivate: false,
       slug: "meal-plan-generator",
-      github: "https://github.com/nilmeh/meal-plan-generator",
+      github: "https://github.com/nilmeh/CS35L_Project",
       demo: "https://uclamealplanner.com",
       startDate: "2025-06-01"
     }
