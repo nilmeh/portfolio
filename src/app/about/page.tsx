@@ -24,7 +24,7 @@ export default function About() {
       degree: "Bachelor of Science in Computer Science and Engineering",
       location: "Los Angeles, CA",
       period: "Expected June 2028",
-      grade: "GPA: 3.976/4.0",
+      grade: "GPA: 3.983/4.0",
       honors: ["Boeing Scholarship", "Samueli Undergraduate Fund Scholarship", "Norman Yeung Scholarship", "Dean's Honors List (2024-2025)"],
       coursework: [
         "Introduction to Programming (C++)",
@@ -73,6 +73,17 @@ export default function About() {
 
   const experience = [
     {
+      company: "Daily Bruin",
+      position: "Software Engineering Intern",
+      period: "October 2025 - Present",
+      description: "Developing and maintaining the Daily Bruin website serving 50,000+ daily visitors using React, MySQL, and Kubernetes. Leading optimization initiatives to enhance user experience and site performance.",
+      achievements: [
+        "Led the main site optimization project, improving load times by 80% via component modernization, optimized image delivery, dependency reduction, and priority asset loading",
+        "Developing and maintaining the Daily Bruin website (50,000+ daily visitors) using React, MySQL, and Kubernetes",
+        "Contributing to a high-traffic news platform serving the UCLA community with reliable, fast content delivery"
+      ]
+    },
+    {
       company: "DTBEU (Texpro Solutions sp. z o.o.)",
       position: "Software Engineering Intern",
       period: "June 2025 - July 2025",
@@ -98,6 +109,12 @@ export default function About() {
         "Designed and developed the company's flagship website (panachefashion.pl) using modern React.js architecture and responsive CSS design, resulting in a remarkable 60% increase in web traffic and enhanced customer engagement",
         "Improved critical business operations by optimizing invoicing and inventory management systems, significantly improving order processing efficiency and real-time tracking capabilities for better customer service"
       ]
+    },
+    {
+      company: "Bruin AI",
+      position: "Member",
+      period: "October 2025 - Present",
+      description: "Developing AI-driven solutions by applying machine learning and deep learning to solve real-world business problems for paying clients. Contributing to cutting-edge AI projects that bridge academic research with practical industry applications."
     },
     {
       company: "Undergraduate Student Association Council (USAC), UCLA",
@@ -167,7 +184,7 @@ export default function About() {
                   <p className="text-muted-foreground leading-relaxed">
                     I&apos;m a Computer Science and Engineering student at UCLA with a passion for creating 
                     innovative software solutions that solve real-world problems. With a strong academic 
-                    foundation (3.976 GPA) and hands-on experience through internships and personal projects, 
+                    foundation (3.983 GPA) and hands-on experience through internships and personal projects, 
                     I specialize in full-stack web development, iOS development, and emerging technologies.
                   </p>
                   <p className="text-muted-foreground leading-relaxed">
@@ -410,7 +427,7 @@ export default function About() {
                     <div className="w-2 h-2 bg-purple-500 rounded-full mt-2"></div>
                     <div>
                       <p className="font-medium text-sm">High GPA Achievement</p>
-                      <p className="text-xs text-muted-foreground">3.976/4.0 Cumulative</p>
+                      <p className="text-xs text-muted-foreground">3.983/4.0 Cumulative</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">

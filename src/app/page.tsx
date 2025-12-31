@@ -96,9 +96,10 @@ export default function Home() {
               
               <div className="flex flex-wrap gap-2">
                 <Badge variant="outline" className="bg-white/50 dark:bg-slate-800/50">UCLA CSE Student</Badge>
-                <Badge variant="outline" className="bg-white/50 dark:bg-slate-800/50">3.976 GPA</Badge>
+                <Badge variant="outline" className="bg-white/50 dark:bg-slate-800/50">3.983 GPA</Badge>
                 <Badge variant="outline" className="bg-white/50 dark:bg-slate-800/50">Full-Stack Developer</Badge>
                 <Badge variant="outline" className="bg-white/50 dark:bg-slate-800/50">iOS Developer</Badge>
+                <Badge variant="outline" className="bg-white/50 dark:bg-slate-800/50">Bruin AI Member</Badge>
                 <Badge variant="outline" className="bg-white/50 dark:bg-slate-800/50">TEDx Speaker</Badge>
               </div>
 
@@ -306,7 +307,7 @@ export default function Home() {
       <section className="container px-4 py-16 mx-auto">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
           <div className="space-y-2">
-            <div className="text-2xl font-bold">3.976</div>
+            <div className="text-2xl font-bold">3.983</div>
             <div className="text-sm text-muted-foreground">GPA at UCLA</div>
           </div>
           <div className="space-y-2">
@@ -318,7 +319,7 @@ export default function Home() {
             <div className="text-sm text-muted-foreground">Research Publications</div>
           </div>
           <div className="space-y-2">
-            <div className="text-2xl font-bold">2+</div>
+            <div className="text-2xl font-bold">3+</div>
             <div className="text-sm text-muted-foreground">Internships</div>
           </div>
         </div>
